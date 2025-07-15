@@ -77,5 +77,8 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+   "chuangyi": {
+      "api": "http://www.30dian.cn/api.php/v1.vod",
+      "name": "创意视频"
   }
 }
